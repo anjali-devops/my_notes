@@ -1,3 +1,7 @@
-Hello everyone, it's Anjali here! Today, I wanted to share with you all a milestone moment in my journey as a programmer - my first Git push. As someone relatively new to the world of version control, this experience was both exhilarating and nerve-wracking, but ultimately incredibly rewarding.
-
-Let me set the scene for you. Armed with determination and a strong cup of coffee, I sat down at my computer, ready to take the plunge into the world of Git. After spending some time familiarizing myself with the basics of Git and GitHub, I finally felt confident enough to push my first file to a repository.
+Hello everyone, it's Anjali here!
+Today, I wanted to share with you all a milestone moment in my journey as a programmer - my first Git push.
+dAs someone relatively new to the world of version control, this experience was  ultimately incredibly rewarding.
+Let me set the scene for you.
+Armed with determination and a strong cup of coffee, I sat down at my computer, ready to take the plunge into the world of Git.
+After spending some time familiarizing myself with the basics of Git and GitHub.
+I finally felt confident enough to push my first file to a repository.
